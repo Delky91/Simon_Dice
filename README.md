@@ -1,1 +1,1 @@
-# Simon_Dice
+Juego Simon dice con Jquery
