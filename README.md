@@ -1,1 +1,4 @@
-Juego Simon dice con Jquery
+##Simon Dice
+
+Created By:
+Luis Miño Bustos
