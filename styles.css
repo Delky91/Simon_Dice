@@ -1,6 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+}
 body {
 	text-align: center;
 	background-color: #011f3f;
+}
+
+p {
+	color: white;
+	margin-bottom: 8px;
+}
+
+h2 {
+	margin-bottom: 10px;
 }
 
 #level-title {
@@ -64,7 +77,12 @@ body {
 	background-color: grey;
 }
 
-#volumen-slider {
-	width: 10%;
-	margin: 20px auto;
+footer {
+	margin-top: 50px;
+}
+
+footer a {
+	text-decoration: none;
+	color: #3ab8d8;
+	font-weight: bold;
 }
