@@ -1,9 +1,9 @@
 # Simon Dice
 
-#Createador:
+#Creador:
 Luis Miño Bustos
 
-## Description:
+## Descripción:
 
 ¡Prepárate para desafiar tu memoria y agudizar tus habilidades de observación con el emocionante juego de Simon! Sumérgete en un mundo de luces y colores mientras sigues el patrón y te enfrentas a niveles cada vez más desafiantes.
 
