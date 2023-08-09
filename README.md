@@ -1,7 +1,7 @@
 # Simon Dice
 
-#Creador:
-Luis Miño Bustos
+Creador:
+- Luis Miño Bustos
 
 ## Descripción:
 
