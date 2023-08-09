@@ -1,27 +1,57 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html
+	lang="en"
+	dir="ltr">
 	<head>
 		<meta charset="utf-8" />
 		<title>Simon</title>
-		<link rel="stylesheet" href="styles.css" />
+		<link
+			rel="stylesheet"
+			href="styles.css" />
 		<link
 			href="https://fonts.googleapis.com/css?family=Press+Start+2P"
-			rel="stylesheet"
-		/>
+			rel="stylesheet" />
 	</head>
 
 	<body>
+		<div id="instructions">
+			<h2>Instructions</h2>
+			<p>
+				Welcome to the Simon Game! sigue el patron los botones se iluminaran y
+				deberas hacer click
+			</p>
+			<p>
+				Debes prestar atencion a la secuencia e introducirla en el orden correcto
+			</p>
+			<p>
+				por ejemplo si al iniciar brilla el boton amarillo haces click en el mismo
+				color, pero desde el el nivel 2 solo se te mostrara el nuevo color a
+				presionar debes recordar el orden y apretar los botones en el orden correcto
+			</p>
+		</div>
 		<h1 id="level-title">Press A Key to Start</h1>
-		<div class="container">
-			<div lass="row">
-				<div type="button" id="green" class="btn green"></div>
+		<div class="game-container">
+			<div class="row">
+				<div
+					type="button"
+					id="green"
+					class="btn green"></div>
 
-				<div type="button" id="red" class="btn red"></div>
+				<div
+					type="button"
+					id="red"
+					class="btn red"></div>
 			</div>
 
 			<div class="row">
-				<div type="button" id="yellow" class="btn yellow"></div>
-				<div type="button" id="blue" class="btn blue"></div>
+				<div
+					type="button"
+					id="yellow"
+					class="btn yellow"></div>
+				<div
+					type="button"
+					id="blue"
+					class="btn blue"></div>
 			</div>
 		</div>
 
@@ -29,8 +59,7 @@
 		<script
 			src="https://code.jquery.com/jquery-3.6.0.min.js"
 			integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-			crossorigin="anonymous"
-		></script>
+			crossorigin="anonymous"></script>
 		<!--JS-->
 		<script src="game.js"></script>
 	</body>
