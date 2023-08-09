@@ -1,9 +1,9 @@
-## Simon Dice
+# Simon Dice
 
 #Createador:
 Luis Miño Bustos
 
-# Description:
+## Description:
 
 ¡Prepárate para desafiar tu memoria y agudizar tus habilidades de observación con el emocionante juego de Simon! Sumérgete en un mundo de luces y colores mientras sigues el patrón y te enfrentas a niveles cada vez más desafiantes.
 
@@ -14,7 +14,7 @@ El juego te reta a superar tus límites y alcanzar niveles cada vez más altos. 
 "Simon" es una experiencia emocionante que pondrá a prueba tu memoria, concentración y habilidades para resolver problemas. ¿Tienes lo necesario para dominar los patrones y conquistar cada nivel? ¡Sumérgete en la diversión y desafío de "Simon" ahora mismo y descubre si puedes convertirte en el maestro de los colores y la secuencia!
 
 
-# Instrucciones para Descargar y Jugar "Simon Dice" en tu PC:
+## Instrucciones para Descargar y Jugar "Simon Dice" en tu PC:
 
 - Abre tu navegador web y visita el repositorio de "Simon" en GitHub: https://github.com/Delky91/Simon_Dice
 
