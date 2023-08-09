@@ -33,3 +33,11 @@ El juego te reta a superar tus límites y alcanzar niveles cada vez más altos. 
 - Recuerda que necesitarás una conexión a Internet para descargar el repositorio y, una vez descargado, podrás jugar el juego sin conexión.
 
 - ¡Diviértete jugando "Simon" y desafiando tus habilidades de memoria y observación!
+
+## Construido Con 🛠️
+
+- HTML
+- CSS
+- JavaScript
+- [Jquery](https://jquery.com/)
+
